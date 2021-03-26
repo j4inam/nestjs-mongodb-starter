@@ -5,6 +5,7 @@
   "author": "Jainam Sheth",
   "private": true,
   "license": "UNLICENSED",
+  "keywords": ["nestjs", "mongodb", "jwt", "starter"],
   "engines": {
     "node": "12.18.1",
     "npm": "6.14.7"
